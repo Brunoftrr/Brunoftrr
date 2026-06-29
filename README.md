@@ -9,13 +9,15 @@
 
 > blockquote a b c
 
+---
+
 1. ordened list
 2.  item 2
 
 - unordened list
 - item 
 
---- <!-- bluh bluh bluh-->
+<!-- bluh bluh bluh-->
 
 <!--
 **Brunoftrr/Brunoftrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
