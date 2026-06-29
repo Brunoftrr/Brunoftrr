@@ -1,5 +1,5 @@
 ## Hi there 👋
-#I'm thinking miku miku uueeoo
+# **I'm thinking miku miku uueeoo**
 
 <!--
 **Brunoftrr/Brunoftrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
