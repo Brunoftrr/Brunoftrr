@@ -2,8 +2,13 @@
 ### **I'm thinking miku miku uueeoo**
 
 **bold**
+
 *italic*
+
 `code`
+
+> blockquote a b c
+
 1. ordened list
 2.  item 2
 
