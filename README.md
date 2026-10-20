@@ -16,7 +16,7 @@
 
 - unordened list
 - item
-<img src="hatsune-miku-dance.gif" height = "900" width = "auto"/>
+<img src="hatsune-miku-dance.gif" height = "1200" width = "auto"/>
 
 <!-- bluh bluh bluh-->
 
